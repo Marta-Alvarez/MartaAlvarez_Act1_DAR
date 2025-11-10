@@ -52,6 +52,6 @@ Para ampliar conocimientos sobre desarrollo web y análisis digital, se recomien
 - [Maltego Blog](https://www.maltego.com/blog/): análisis digital y ciberinvestigación aplicada.
 
 
-Este repositorio demuestra cómo combinar HTML, CSS y JavaScript para construir una experiencia web completa, funcional y visualmente atractiva.
+Este repositorio muestra cómo combinar HTML, CSS y JavaScript para construir una web funcional, sencilla y visualmente atractiva.
 
 
