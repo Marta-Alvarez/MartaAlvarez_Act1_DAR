@@ -58,7 +58,7 @@ nav button:hover {
 
 ul {
   list-style-type: disc;
-  padding-left: 350px; /* Sangría desde el borde izquierdo */
+  padding-left: 250px; /* Sangría desde el borde izquierdo */
   text-align: left;
 }
 
