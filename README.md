@@ -29,7 +29,6 @@ El CSS se encarga del **diseño visual** del sitio. Controla el estilo y cómo s
 
 En este proyecto, el archivo `style.css` define los estilos globales y se enlaza al HTML mediante:
 
-```html
 <link rel="stylesheet" href="style.css">
 
 Gracias a CSS, se ha logrado centrar elementos, aplicar colores personalizados y mejorar la legibilidad del contenido.
