@@ -18,8 +18,8 @@ Ambas páginas incluyen:
 
 - Títulos definidos con la etiqueta `<h1>`
 - Listas estructuradas con `<ul>` y `<li>`
-- Enlaces de navegación
-- Botones interactivos
+- Enlaces de navegación  `<a href="xxxxxxx">`
+- Botones interactivos `<button onclick="xxxxxxx">`
 
 ---
 
